@@ -1,0 +1,94 @@
+/*Use this first*/
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.headCenter{
+    text-align: center;
+}
+
+.embedded{
+    text-align: center;
+}
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nametitle{
+    color: #d2cfcf;
+}
+
+.myportfolio{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f8f9fa;
+}
+
+.bodycolor{
+    background-color: aliceblue;
+}
+
+.footer{
+    background-color: #1a1d1f;
+}
+
+.titles{
+    font-weight: bold;
+    color:#1a1d1f;
+}
+
+h5{
+    font-weight: bold;
+}
+
+a{
+    color:#212529;
+}
+
+a:hover{
+    color: #447da4;
+}
+
+.name{
+    font-weight: bold;
+    color:#ffffff;
+    font-size: 1.0em;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.back2top{
+    color: #f6e1c5;
+}
+
+.linkcolor:hover{
+    color: rgb(96, 50, 21);
+}
+
+.videocaption{
+    font-size: small;
+}
+
+.aboutmecaption{
+    font-size: 0.925em;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.shrink{
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.educationnotes{
+    padding-left: 10px;
+    line-height: 75%;
+}
+
+.WorkExpDescription{
+    padding-left: 10px;
+    font-size: 0.975em;
+}
