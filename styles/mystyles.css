@@ -38,8 +38,14 @@ h1{
     color:#1a1d1f;
 }
 
+.midtext{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
 h5{
     font-weight: bold;
+    padding-top: 20px;
 }
 
 a{
